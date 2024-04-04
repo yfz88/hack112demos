@@ -3,6 +3,10 @@ import tensorflow as tf
 import numpy as np
 import matplotlib.pyplot as plt
 
+#credit to Aymeric Damien, author of tensorflow example projects:
+#Project: https://github.com/aymericdamien/TensorFlow-Examples/
+
+
 rng = np.random
 # Parameters.
 learning_rate = 0.01
