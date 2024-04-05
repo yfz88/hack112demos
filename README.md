@@ -8,8 +8,8 @@ The `image_demo` folder contains the code and resources for the image demo. This
 ## Sound Demo
 The `sound_demo` folder contains the code and resources for the sound demo. This demo demonstrates how to play local sounds in CMU Graphics.
 
-## Sound Demo
-The `pygame_demo` folder contains the code and resources for the sound demo. This demo demonstrates several useful features in Pygame.
+## Pygame Demo
+The `pygame_demo` folder contains the code and resources for the Pygame demo. This demo demonstrates several useful features in Pygame.
 
 ## Font Demo
 TBD
