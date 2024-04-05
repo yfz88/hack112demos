@@ -11,7 +11,7 @@ The `sound_demo` folder contains the code and resources for the sound demo. This
 ## Pygame Demo
 The `pygame_demo` folder contains the code and resources for the Pygame demo. This demo demonstrates several useful features in Pygame.
 
-## Pygame Demo
+## Flask Demo
 The `flask_demo` folder contains the code and resources for the Flask demo. This demo demonstrates how to quickly create and host an HTML page in Flask.
 
 ## Font Demo
