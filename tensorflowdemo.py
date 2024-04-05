@@ -6,6 +6,10 @@ import matplotlib.pyplot as plt
 #credit to Aymeric Damien, author of tensorflow example projects:
 #Project: https://github.com/aymericdamien/TensorFlow-Examples/
 
+#https://www.tensorflow.org/tutorials 
+
+#https://teachablemachine.withgoogle.com/train
+
 
 rng = np.random
 # Parameters.
