@@ -1,12 +1,15 @@
 # Hack112 Demos 
 
-This GitHub repository contains two demos for the Hack112 hackathon.
+This GitHub repository contains several demos for the Hack112 hackathon.
 
 ## Image Demo
 The `image_demo` folder contains the code and resources for the image demo. This demo showcases how to use CMUImages to make drawing images much faster in offline CMU Graphics.
 
 ## Sound Demo
 The `sound_demo` folder contains the code and resources for the sound demo. This demo demonstrates how to play local sounds in CMU Graphics.
+
+## Sound Demo
+The `pygame_demo` folder contains the code and resources for the sound demo. This demo demonstrates several useful features in Pygame.
 
 ## Font Demo
 TBD
