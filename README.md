@@ -14,8 +14,12 @@ The `pygame_demo` folder contains the code and resources for the Pygame demo. Th
 ## Flask Demo
 The `flask_demo` folder contains the code and resources for the Flask demo. This demo demonstrates how to quickly create and host an HTML page in Flask.
 
-## Font Demo
-TBD
+## Numpy Demo
+The `numpydemo.py` file contains the code and resources for the Numpy demo. This demo demonstrates several useful features in Numpy.
+
+## Tensorflow Demo
+The `tensorflowdemo.py` file contains the code and resources for the Tensorflow demo. This demo demonstrates several useful features in Tensorflow.
+
 
 Feel free to explore the respective folders to find more information and instructions on running the demos.
 
